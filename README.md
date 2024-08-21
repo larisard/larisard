@@ -9,7 +9,6 @@
 
   <img align="center" alt="Larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Larissa-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CLLBggVhXVM/?utm_source=ig_web_copy_link">
 </div>
   
   ##
