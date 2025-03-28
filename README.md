@@ -1,4 +1,4 @@
-## Oie! Eu sou a Larissa Sardinha, mas pode me chamar de Lari.
+## Oi! Eu sou a Larissa Sardinha, mas pode me chamar de Lari.
 
 - 😊 Tenho 25 anos.
 - 📖 Viciada em Literatura e Fórmula 1 🏎️.
