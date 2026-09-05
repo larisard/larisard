@@ -1,8 +1,8 @@
 ## Oi! Eu sou a Larissa Sardinha, mas pode me chamar de Lari.
 
-- 😊 Tenho 25 anos.
+- 😊 Tenho 26 anos.
 - 📖 Viciada em Literatura e Fórmula 1 🏎️.
-- 💻 No último período da graduação em Ciência da Computação .
+- 💻 Graduada em Ciência da Computação .
 
 <div align="center">
   <a href="https://github.com/larisard">
